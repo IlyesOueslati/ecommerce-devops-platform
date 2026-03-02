@@ -1,3 +1,7 @@
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5)
+![CI/CD](https://img.shields.io/badge/CI-CD-blue)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
 # E-Commerce DevOps Platform
 
 ## 📌 Project Overview
